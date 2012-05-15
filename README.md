@@ -1,4 +1,4 @@
-**Site Stats for ExpressionEngine 2**
+**Common Searches for ExpressionEngine 2**
 
 This plugin aims to provide simple stats on search terms logged in the Search log. 
 Note: The default number of search terms to store is 500. You can change this number in the Search Term Log Configuration settings in the EE Control Panel.
